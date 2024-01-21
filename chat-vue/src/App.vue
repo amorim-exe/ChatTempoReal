@@ -36,7 +36,6 @@
 <style scoped>
   .q-layout {
     background-color: #ffffff;
-    text-emphasis: none;
   }
 
   .no-scroll {
