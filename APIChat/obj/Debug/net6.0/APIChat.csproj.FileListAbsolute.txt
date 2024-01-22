@@ -31,3 +31,4 @@ D:\APIChat\APIChat\obj\Debug\net6.0\refint\APIChat.dll
 D:\APIChat\APIChat\obj\Debug\net6.0\APIChat.pdb
 D:\APIChat\APIChat\obj\Debug\net6.0\APIChat.genruntimeconfig.cache
 D:\APIChat\APIChat\obj\Debug\net6.0\ref\APIChat.dll
+D:\APIChat\APIChat\obj\Debug\net6.0\APIChat.sourcelink.json

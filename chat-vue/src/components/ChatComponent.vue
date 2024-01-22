@@ -15,7 +15,7 @@
           :text="[message.body]" 
           :name="message.name"
           :stamp="message.date"
-          bg-color="amber-7"
+          bg-color="#123142"
         />
       </div>
     </div>
